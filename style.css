@@ -1,0 +1,324 @@
+.header{
+    display:flex;
+    background-color:rgba(229, 84, 115, 0.10); ;
+}
+.header-content{
+    display:flex;
+}
+.heading{
+    font-size: 80px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+color:#272727;
+margin-left:240px;
+}
+.heading-para{
+    font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+margin-left:240px;
+
+}
+
+.shop-btn{
+    border-radius: 8px;
+background: #E55473;
+display: inline-flex;
+padding: 20px 43px;
+align-items: flex-start;
+gap: 10px;
+color:white;
+margin-left:280px;
+border:none;
+
+
+}
+.myimg{
+    width: 635px;
+height: 800px;
+}
+/* featured flower */
+.heading-feature{
+
+    margin-top:170px;
+    color: #272727;
+text-align: center;
+
+font-size: 40px;
+
+font-weight: 800;
+line-height: normal;
+}
+.featured-paragraph{
+   
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+
+font-size: 18px;
+
+font-weight: 400;
+line-height: 30px; /* 166.667% */
+}
+.color-flower{
+    display:flex;
+    margin-bottom:24px;
+}
+.first-img{
+    border-radius: 300px 300px 0px 0px;
+background: rgba(167, 33, 98, 0.15);
+
+
+margin-left:24px;
+padding:110px 76px 0px 78px;
+
+}
+.second-img{
+    border-radius: 300px 300px 0px 0px;
+background: rgba(5, 151, 160, 0.15);
+margin-left:24px;
+padding:110px 76px 51px 78px;
+
+}
+.third-img{
+    border-radius: 300px 300px 0px 0px;
+background: rgba(71, 125, 17, 0.15);
+margin-left:24px;
+padding:110px 76px 0px 78px;
+
+}
+.link-one{
+    display:block;
+}
+
+.anchor-pink{
+    
+    color: #272727;
+text-align: center;
+
+font-size: 24px;
+
+font-weight: 700;
+line-height: 35px; /* 145.833% */
+text-decoration-line: underline;
+
+}
+  
+/* second rectangle */
+.second-rectangle{
+    border-radius: 8px;
+background: rgba(39, 39, 39, 0.05);
+margin:140px 140px 140px 240px;
+/* width:1440px;
+height:320px; */
+
+}
+.group-image{
+    display:flex;
+    padding:86px 140px 20px 185px;
+}
+.delivery{
+    display:block;
+ justify-content: center;
+}
+.para-delivery{
+    text-align: center;
+    margin-right:100px;
+}
+.delivery-man{
+    
+    text-align: center;
+}
+.sale-img{
+    width: 318px;
+height: 420px;
+flex-shrink: 0;
+padding:100px 320px 100px 180px;
+}
+/* section{
+    background-color:rgba(229, 84, 115, 0.10); 
+display:float;
+} */
+.header-content-sale{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.header-sale{
+    border-radius: 8px;
+background: rgba(229, 84, 115, 0.05);
+}
+.heading-sale{
+    color: #272727;
+
+font-size: 40px;
+
+font-weight: 800;
+line-height: normal;
+padding-left:100px;
+}
+.span-off{
+    color: #E55473;
+    border:none;
+
+
+    
+}
+.heading-para-sale{
+ 
+padding-left:200px;
+color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 166.667% */
+
+}
+.sign-up{
+    
+
+    border-radius: 8px;
+background: #E55473;
+display: inline-flex;
+padding: 20px 43px;
+align-items: flex-start;
+gap: 10px;
+color:white;
+margin-left:380px;
+border:none;
+
+
+}
+.instagram{
+    color: #272727;
+text-align: center;
+
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.insta-para{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 166.667% */
+}
+.insta-images{
+    margin-left:200px;
+}
+
+.flower-image{
+    width: 242px;
+height: 296px;
+
+margin-left:24px;
+
+
+}
+
+.latest-details{
+    background-image: url('./images/Rectangle\ 9.png');
+}
+
+.details-heading{
+    color: #272727;
+text-align: center;
+
+font-size: 40px;
+
+font-weight: 800;
+line-height: normal;
+
+}
+.copun{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+
+font-size: 18px;
+
+font-weight: 400;
+line-height: 30px; /* 166.667% */
+}
+.input{
+    border-radius: 8px;
+background: #FFF;
+width: 600px;
+height: 64px;
+margin-left:280px;
+text-align: center;
+border:none;
+
+
+}
+.subscribe{
+    
+
+    border-radius: 8px;
+background: #E55473;
+display: inline-flex;
+padding: 20px 43px;
+align-items: flex-start;
+
+color:white;
+
+border:none;
+
+
+
+}
+footer{
+    background-color: black;
+    width:1900px;
+    height:400px;
+}
+.footer-shop{
+
+    color: #E55473;
+
+font-size: 48px;
+
+font-weight: 800;
+line-height: normal;
+margin-left:630px;
+padding-top:130px;
+
+}
+.flower-shop{
+  
+   padding-top:120px;
+   color: #FFF;
+
+font-size: 48px;
+
+font-weight: 800;
+line-height: normal;
+margin-right:680px;
+}
+.para-footer{
+    color: rgba(255, 255, 255, 0.90);
+text-align: center;
+font-size: 18px;
+
+font-family: Lato;
+
+font-weight: 400;
+line-height: 30px; /* 166.667% */
+margin-right:480px;
+}
+.para-right{
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-right:480px;
+}
